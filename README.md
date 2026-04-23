@@ -32,4 +32,4 @@ Programın hatasız çalışması için şu adımları izleyin:
 ---
 
 ## 📜 Lisans
-Bu proje eğitim ve kişisel kullanım amacıyla geliştirilmiştir. Geliştirici: **Patron (Rheme)**
+Bu proje eğitim ve kişisel kullanım amacıyla geliştirilmiştir.
